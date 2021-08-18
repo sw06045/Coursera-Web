@@ -1,0 +1,42 @@
+@media (min-width: 992px){
+    #chicken {
+        width: 30%;
+        float:left;
+    }
+
+    #beef {
+        width: 30%;
+        float:left;
+    }
+
+    #sushi {
+        width: 30%;
+        float:left;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+
+
+}
+
+@media (max-width: 767px){
+
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    background-color: gray;
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+}
+
+#chicken_title {
+    background-color: salmon;
+    padding: 0px 0px 0px 0px;
+    float: right;
+}
